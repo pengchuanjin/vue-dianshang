@@ -1,2 +1,0 @@
-# vue-dianshang
-vue-spaersamll
